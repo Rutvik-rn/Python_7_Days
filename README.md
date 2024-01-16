@@ -1,6 +1,5 @@
 # 100_Days-Of-Code
 Taking the 100 Days coding challenge from the udemy course instructor Dr. Angela Yu.
-Aim - Building Consistency
 
 Topics Mentioned in the course:
 1.	Python 3 - the latest version of Python
